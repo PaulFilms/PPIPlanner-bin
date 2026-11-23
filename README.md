@@ -11,4 +11,4 @@ Cualquier uso fuera de ese ambito es necesario comunicarlo a los desarrolladores
 
 ## Descarga
 
-[DOWNLOAD / Release](www.google.es](https://github.com/PaulFilms/PPIPlanner-bin/releases/)
+[DOWNLOAD / Release](https://github.com/PaulFilms/PPIPlanner-bin/releases/)
