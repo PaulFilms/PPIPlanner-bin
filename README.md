@@ -11,6 +11,6 @@ Cualquier uso fuera de ese ambito es necesario comunicarlo a los desarrolladores
 
 ## Descarga
 
-[DOWNLOAD]([https://github.com/PaulFilms/PPIPlanner-bin/releases/](https://github.com/PaulFilms/PPIPlanner-bin/releases/download/v2026.11.20b1/planner-desktop.exe))
-[DOWNLOAD]([https://github.com/PaulFilms/PPIPlanner-bin/releases/](https://github.com/PaulFilms/PPIPlanner-bin/releases/download/latest/planner-desktop.exe))
-[Release Page](https://github.com/PaulFilms/PPIPlanner-bin/releases/)
+[DOWNLOAD](https://github.com/PaulFilms/PPIPlanner-bin/releases/download/v2026.11.20b1/planner-desktop.exe) 
+[DOWNLOAD](https://github.com/PaulFilms/PPIPlanner-bin/releases/download/latest/planner-desktop.exe) 
+[Release Page](https://github.com/PaulFilms/PPIPlanner-bin/releases/) 
