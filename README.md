@@ -2,7 +2,7 @@
 
 # PPI Planner
 
-Aplicación de escritorio (portable) desarrollada por el area de prototipos (Indra Sistemas) para planificación de tareas con vista Gantt.
+Aplicación de escritorio (portable) desarrollada por el area de prototipos de (Indra Group)[https://www.indragroup.com/en] para planificación de tareas con vista Gantt.
 
 ## Uso
 
