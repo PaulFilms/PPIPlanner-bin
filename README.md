@@ -14,4 +14,4 @@ La aplicación no recoge ningún dato de uso ni estadistico del usuario, la úni
 
 [DOWNLOAD](https://github.com/PaulFilms/PPIPlanner-bin/releases/download/v2026.11.20b1/planner-desktop.exe) 
 
-[Release Page](https://github.com/PaulFilms/PPIPlanner-bin/releases/) 
+[Release Page](https://github.com/PaulFilms/PPIPlanner-bin/releases/latest) 
