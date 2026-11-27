@@ -4,6 +4,10 @@
 
 Aplicación de escritorio (portable) desarrollada por el area de prototipos de [Indra Group](https://www.indragroup.com/en) para planificación de tareas con vista Gantt.
 
+## Plataformas
+
+- Windows x86
+
 ## Uso
 
 PPI Planner es una aplicación no-comercial destinada para uso interno dentro de la compañia.  
