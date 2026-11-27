@@ -10,7 +10,7 @@ PPI Planner es una aplicación no-comercial destinada para uso interno dentro de
 Cualquier uso fuera de ese ambito es necesario comunicarlo a los desarrolladores.  
 La aplicación no recoge ningún dato de uso ni estadistico del usuario, la única consulta hacia internet está reservada a la comprobación de la versión y actualizaciones disponibles.  
 
-## Descarga
+## DESCARGA / VERSION
 
-[Descarga](https://github.com/PaulFilms/PPIPlanner-bin/releases/latest/download/planner-desktop.exe)
+[Descarga](https://github.com/PaulFilms/PPIPlanner-bin/releases/latest/download/planner-desktop.exe)  
 [Notas de versión](https://github.com/PaulFilms/PPIPlanner-bin/releases/latest)
